@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<egain-license customer-name="eGain" date-generated="10/05/2018" expiration-date="12/31/2020" grace-period="10" id="E288068924B4BEA43D50HH44D268RYIIOHL">
+	<license-node license-id="1" product-name="eGain Platform" module-name="Partition" user-based="n" license-policy="named" units="1" license-key="3290C8C28251195D15BBE1397C111586B07D5B11">
+	</license-node>
+	<license-node license-id="6" product-name="eGain Platform" user-based="y" license-policy="concurrent" units="5" license-key="2C24D93028198D2DE544D159D2A6A97A92E93D4F">
+	</license-node>
+</egain-license>
